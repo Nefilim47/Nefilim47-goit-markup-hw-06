@@ -309,7 +309,9 @@ a {
   border: 1px solid rgba(33, 33, 33, 0.2);
   border-radius: 4px;
 }
-
+.form-container-textarea {
+  margin-left: 24px;
+}
 .form-textarea {
   font-size: 12px;
   line-height: 1.33;
