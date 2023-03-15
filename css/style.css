@@ -286,7 +286,7 @@ a {
 .form-container {
   position: relative;
   width: 360px;
-  height: 58px;
+  /* height: 58px; */
   margin-bottom: 8px;
 }
 
@@ -367,6 +367,8 @@ a {
 
 .icon-container {
   position: relative;
+  margin-top: 4px;
+  margin-bottom: 8px;
 }
 .icon {
   position: absolute;
